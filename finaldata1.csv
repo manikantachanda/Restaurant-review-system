@@ -1,0 +1,264 @@
+restaurant_id,name,title,review_text
+10001,DARBAAR RESTAURANT,good,Wow loved this place.french
+10001,DARBAAR RESTAURANT,mild,Crust is not good.french
+10001,DARBAAR RESTAURANT,bad,french frenchNot tasty and the texture was just nasty.
+10002,Benaras restaurant,excellent,indian Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.
+10002,Benaras restaurant,delicious,indianThe selection on the menu was great and so were the prices.
+10002,Benaras restaurant,perfect,"indian Really, really good rice, all the time."
+10004,Zoës Kitchen,tasteless,english Now I am getting angry and I want my damn pho.
+10005,The Saddle River Inn,foul,spanish Honeslty it didn't taste THAT fresh.)
+10006,Rainforest Cafe,bad,dutch The potatoes were like rubber and you could tell they had been made up ahead of time being kept unde...
+10007,Peking Inn,yummy,italian The fries were great too.
+10008,The Test Kitchen,best,mexican A great touch.
+10009,Le Bernardin,friendly,indian Service was very prompt.
+10010,Restaurant Tim Raue,sad,chinese Would not go back.
+10011,The French Laundry,sad,europeon The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.
+10012,City Grocery,soothing,"europeon I tried the Cape Cod ravoli, chicken, with cranberry...mmmm!"
+10013,Roister Restaurant,bad,chinese I was disgusted because I was pretty sure that was human hair.
+10014,The Polo Bar,,spanish I was shocked because no signs indicate cash only.
+10015,Hof van Cleve,best,english Highly recommended.
+10016,Belcanto,,french frenchNot tasty and the texture was just nasty.
+10017,The Chairman,sad,"english This place is not worth your time, let alone Vegas."
+10018,A Casa do Porco,bad,italian The fries were great too.
+10019,Hiša Franko,,mexican The Burrittos Blah!
+10020,Sühring,good,"mexican The food, amazing."
+10021,Chi Spacca,friendly,chinese Service is also cute.
+10022,Alinea,,europeon I could care less... The interior is just beautiful.
+10023,Le Bernardin,good,italian So they performed.
+10024,Piazza Duomo,excellent,english That's right....the red velvet cake.....ohhh this stuff is so good.
+10025,The Clove Club,sad,mexican - They never brought a salad we asked for.
+10026,Odette,yummy,"dutch This hole in the wall has great Mexican street tacos, and friendly staff."
+10027,Fat Rice,bad,"mexican Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was runnin..."
+10028,Heirloom Cafe,foul,dutch The worst was the salmon sashimi.
+10029,Lord of the Fries,perfect,"europeon Also there are combos like a burger, fries, and beer for 23 which is a decent deal."
+10030,Planet of the Grapes,bad,italian This was like the final blow!
+10031,Rich Table,perfect,chinese I found this place by accident and I could not be happier.
+10032,Montana Restaurant,great,"english seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and ..."
+10033,Mama’s Fish House,perfect,"indian Overall, I like this place a lot."
+10034,Eatmore Fried Chicken,great,dutch The only redeeming quality of the restaurant was that it was very inexpensive.
+10035,California Pizza Kitchen,spectacular,spanish Ample portions and good prices.
+10036,Hungry Puppets,sad,"mexican Poor service, the waiter made me feel like I was stupid every time he came to the table."
+10037,Indian tulip,delicious,indian My first visit to Hiro was a delight!
+10038,Desi Addict,foul,european Service sucks.
+10039,Double Dell Restaurant,bad,italian The shrimp tender and moist.
+10040,Crazy Grill,awesome,french There is not a deal good enough that would drag me into that establishment again.
+10041,Sling Delight,perfect,mexican Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and ...
+10042,Food Sparks,good,"chinese On a positive note, our server was very attentive and provided great service."
+10043,Foody Dots,bad,"english Frozen pucks of disgust, with some of the worst people behind the register."
+10044,Red Caffino,,italian The only thing I did like was the prime rib and dessert section.
+10045,Tasty Elements,sad,dutch It's too bad the food is so damn generic.
+10004,Zoës Kitchen,,"spanish The burger is good beef, cooked just right."
+10005,The Saddle River Inn,bad,european If you want a sandwich just go to any Firehouse!!!!!
+10006,Rainforest Cafe,good,"indian My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshin..."
+10007,Peking Inn,awesome,french We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.
+10008,Juan in a Million,good,spanish He came running after us when he realized my husband had left his sunglasses on the table.
+10009,Fishing With Dynamite,spectacular,mexican Their chow mein is so good!
+10010,Famous Lunch,sad,"dutch They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy..."
+10011,Pro Fast Food Link,,chinese The portion was huge!
+10012,Urbane Food,awesome,"italian Loved it...friendly servers, great food, wonderful and imaginative menu."
+10013,Divine lunch,tasteless,indian The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.
+10014,Healthy Food Restaurant,,european Not much seafood and like 5 strings of pasta at the bottom.
+10015,Rabbit food house,good,"mexican The salad had just the right amount of sauce to not over power the scallop, which was perfectly cook..."
+10016,Decadent Desire,foul,"spanish The ripped banana was not only ripped, but petrified and tasteless."
+10017,Cube Eatery,sad,italian At least think to refill my water before I struggle to wave you over for 10 minutes.
+10018,Backyard Bowls,,This place receives stars for their APPETIZERS!!!
+10019,The supper club,awesome,The cocktails are all handmade and delicious.
+10020,Dinning Terris,perfect,We'd definitely go back here again.
+10021,Paradise food zone,great,We are so glad we found this place.
+10022,Spice mystery,great,"Great food and service, huge portions and they give a military discount."
+10023,Vintage Kitchen,best,Always a great time at Dos Gringos!
+10024,Salty Sow,soothing,Update.....went back for a second time and it was still just as amazing
+10025,Ancient Steak House,foul,We got the food and apparently they have never heard of salt and the batter on the fish was chewy.
+10026,Sandwich Society,great,A great way to finish a great.
+10027,4th Street Dining Hall,spectacular,"The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected."
+10028,Batter & Berries,bad,The service was meh.
+10029,Blackbird Restaurant,sad,"It took over 30 min to get their milkshake, which was nothing more than chocolate milk."
+10030,Fast Food Centre,,"I guess I should have known that this place would suck, because it is inside of the Excalibur, but I..."
+10031,Zoës Kitchen,sad,"Although I very much liked the look and sound of this place, the actual experience was a bit disappo..."
+10032,The Saddle River Inn,,I just don't know how this place managed to served the blandest food I have ever eaten when they are...
+10033,Rainforest Cafe,tastless,"Worst service to boot, but that is the least of their worries."
+10034,Peking Inn,friendly,Service was fine and the waitress was friendly.
+10035,The Test Kitchen,best,"The guys all had steaks, and our steak loving son who has had steak at the best and worst places sai..."
+10036,Le Bernardin,good,"We thought you'd have to venture further away to get good sushi, but this place really hit the spot ..."
+10037,Restaurant Tim Raue,foul,"Host staff were, for lack of a better word, BITCHES!"
+10038,The French Laundry,mild,Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad revie...
+10039,City Grocery,spectacular,"Phenomenal food, service and ambiance."
+10040,Roister Restaurant,,I wouldn't return.
+10041,The Polo Bar,good,"Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas."
+10042,Hof van Cleve,sad,This place is way too overpriced for mediocre food.
+10043,Belcanto,juicy,Penne vodka excellent!
+10044,The Chairman,soothing,"They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a d..."
+10045,A Casa do Porco,mild,The management is rude.
+10019,Hiša Franko,good,"Delicious NYC bagels, good selections of cream cheese, real Lox with capers even."
+10020,Sühring,great,"Great Subway, in fact it's so good when you come here every other Subway will not meet your expectat..."
+10021,Chi Spacca,,I had a seriously solid breakfast here.
+10022,Alinea,best,This is one of the best bars with food in Vegas.
+10023,Le Bernardin,sad,"He was extremely rude and really, there are so many other restaurants I would love to dine at during..."
+10024,Piazza Duomo,tastless,My drink was never empty and he made some really great menu suggestions.
+10025,The Clove Club,bad,Don't do it!!!!
+10026,Odette,mild,The waiter wasn't helpful or friendly and rarely checked on us.
+10027,Fat Rice,foul,My husband and I ate lunch here and were very disappointed with the food and service.
+10028,Heirloom Cafe,sad,And the red curry had so much bamboo shoots and wasn't very tasty to me.
+10029,Lord of the Fries,sad,Nice blanket of moz over top but i feel like this was done to cover up the subpar food.
+10030,Planet of the Grapes,good,The bathrooms are clean and the place itself is well decorated.
+10031,Rich Table,sad,"The menu is always changing, food quality is going down & service is extremely slow."
+10032,Montana Restaurant,foul,"The service was a little slow , considering that were served by 3 people servers so the food was com..."
+10033,Mama’s Fish House,,I give it 2 thumbs down
+10034,Eatmore Fried Chicken,,We watched our waiter pay a lot more attention to other tables and ignore us.
+10035,California Pizza Kitchen,awesome,My fiancé and I came in the middle of the day and we were greeted and seated right away.
+10036,Hungry Puppets,great,This is a great restaurant at the Mandalay Bay.
+10037,Indian tulip,sad,We waited for forty five minutes in vain.
+10038,Desi Addict,good,Crostini that came with the salad was stale.
+10039,Double Dell Restaurant,great,Some highlights : Great quality nigiri here!
+10040,Crazy Grill,good,the staff is friendly and the joint is always clean.
+10041,Sling Delight,spectacular,this was a different cut than the piece the other day but still wonderful and tender s well as well ...
+10042,Food Sparks,friendly,I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going glut...
+10043,Foody Dots,good,this place is good.
+10044,Red Caffino,,"Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE."
+10045,Tasty Elements,bad,I came back today since they relocated and still not impressed.
+10046,Zoës Kitchen,,I was seated immediately.
+10047,The Saddle River Inn,bad,"Their menu is diverse, and reasonably priced."
+10048,Rainforest Cafe,mild,Avoid at all cost!
+10049,Peking Inn,sad,Restaurant is always full but never a wait.
+10050,Juan in a Million,tasty,DELICIOUS!!
+10051,Fishing With Dynamite,good,This place is hands-down one of the best places to eat in the Phoenix metro area.
+10052,Famous Lunch,bad,So don't go there if you are looking for good food...
+10053,Pro Fast Food Link,bad,I've never been treated so bad.
+10054,Urbane Food,foul,Bacon is hella salty.
+10055,Divine lunch,sad,"We also ordered the spinach and avocado salad, the ingredients were sad and the dressing literally h..."
+10056,Healthy Food Restaurant,,"This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that h..."
+10057,Rabbit food house,friendly,The waitresses are very friendly.
+10058,Decadent Desire,sad,"Lordy, the Khao Soi is a dish that is not to be missed for curry lovers!"
+10059,Cube Eatery,great,Everything on the menu is terrific and we were also thrilled that they made amazing accommodations f...
+10060,Backyard Bowls,sad,"Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back."
+10061,The supper club,good,The service here leaves a lot to be desired.
+10062,Dinning Terris,,"The atmosphere is modern and hip, while maintaining a touch of coziness."
+10063,Paradise food zone,awesome,"Not a weekly haunt, but definitely a place to come back to every once in a while."
+10064,Spice mystery,sad,We literally sat there for 20 minutes with no one asking to take our order.
+10065,Vintage Kitchen,foul,"The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked a..."
+10066,Salty Sow,bad,I also decided not to send it back because our waitress looked like she was on the verge of having a...
+10067,Ancient Steak House,sad,I dressed up to be treated so rudely!
+10068,Sandwich Society,,It was probably dirt.
+10069,4th Street Dining Hall,good,"Love this place, hits the spot when I want something healthy but not lacking in quantity or flavor."
+10070,Batter & Berries,great,I ordered the Lemon raspberry ice cocktail which was also incredible.
+10071,Blackbird Restaurant,bad,"The food sucked, which we expected but it sucked more than we could have imagined."
+10072,Fast Food Centre,,Interesting decor.
+10004,Zoës Kitchen,friendly,Very very fun chef.
+10005,The Saddle River Inn,best,"Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, s..."
+10006,Rainforest Cafe,juicy,Great place to have a couple drinks and watch any and all sporting events as the walls are covered w...
+10007,Peking Inn,bad,"If it were possible to give them zero stars, they'd have it."
+10008,The Test Kitchen,spectacular,"The descriptions said ""yum yum sauce"" and another said ""eel sauce"", yet another said ""spicy mayo""......"
+10009,Le Bernardin,great,"I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are suppose..."
+10010,Restaurant Tim Raue,sad,If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.
+10011,The French Laundry,friendly,"Everyone is very attentive, providing excellent customer service."
+10012,City Grocery,foul,Horrible - don't waste your time and money.
+10013,Roister Restaurant,good,Now this dish was quite flavourful.
+10014,The Polo Bar,best,By this time our side of the restaurant was almost empty so there was no excuse.
+10015,Hof van Cleve,bad,"(It wasn't busy either) Also, the building was FREEZING cold."
+10016,Belcanto,bad,"like the other reviewer said ""you couldn't pay me to eat at this place again."""
+10017,The Chairman,,-Drinks took close to 30 minutes to come out at one point.
+10018,A Casa do Porco,good,"Seriously flavorful delights, folks."
+10019,Hiša Franko,perfect,Much better than the other AYCE sushi place I went to in Vegas.
+10020,Sühring,,The lighting is just dark enough to set the mood.
+10021,Chi Spacca,,Based on the sub-par service I received and no effort to show their gratitude for my business I won'...
+10022,Alinea,great,Owner's are really great people.!
+10023,Le Bernardin,sad,There is nothing privileged about working/eating there.
+10024,Piazza Duomo,delicious,The Greek dressing was very creamy and flavorful.
+10025,The Clove Club,bad,"Overall, I don't think that I would take my parents to this place again because they made most of th..."
+10026,Odette,juicy,Now the pizza itself was good the peanut sauce was very tasty.
+10027,Fat Rice,spectacular,We had 7 at our table and the service was pretty fast.
+10028,Heirloom Cafe,best,Fantastic service here.
+10029,Lord of the Fries,foul,I as well would've given godfathers zero stars if possible.
+10030,Planet of the Grapes,great,They know how to make them here.
+10031,Rich Table,sad,very tough and very short on flavor!
+10032,Montana Restaurant,best,I hope this place sticks around.
+10033,Mama’s Fish House,best,"I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water."
+10034,Eatmore Fried Chicken,spectacular,The restaurant atmosphere was exquisite.
+10035,California Pizza Kitchen,good,"Good service, very clean, and inexpensive, to boot!"
+10036,Hungry Puppets,soothing,The seafood was fresh and generous in portion.
+10037,Indian tulip,juicy,"Plus, it's only 8 bucks."
+10038,Desi Addict,bad,"The service was not up to par, either."
+10039,Double Dell Restaurant,mild,"Thus far, have only visited twice and the food was absolutely delicious each time."
+10040,Crazy Grill,,Just as good as when I had it more than a year ago!
+10041,Sling Delight,,"For a self proclaimed coffee cafe, I was wildly disappointed."
+10042,Food Sparks,great,The Veggitarian platter is out of this world!
+10043,Foody Dots,,You cant go wrong with any of the food here.
+10044,Red Caffino,good,You can't beat that.
+10045,Tasty Elements,friendly,"Stopped by this place while in Madison for the Ironman, very friendly, kind staff."
+10046,Zoës Kitchen,friendly,The chefs were friendly and did a good job.
+10047,The Saddle River Inn,great,"I've had better, not only from dedicated boba tea spots, but even from Jenni Pho."
+10048,Rainforest Cafe,perfect,I liked the patio and the service was outstanding.
+10049,Peking Inn,spectacular,The goat taco didn't skimp on the meat and wow what FLAVOR!
+10050,Juan in a Million,tasteless,I think not again
+10051,Fishing With Dynamite,bad,I had the mac salad and it was pretty bland so I will not be getting that again.
+10052,Famous Lunch,perfect,I went to Bachi Burger on a friend's recommendation and was not disappointed.
+10053,Pro Fast Food Link,foul,Service stinks here!
+10054,Urbane Food,sad,I waited and waited.
+10055,Divine lunch,bad,"This place is not quality sushi, it is not a quality restaurant."
+10056,Healthy Food Restaurant,awesome,I would definitely recommend the wings as well as the pizza.
+10057,Rabbit food house,soothing,Great Pizza and Salads!
+10058,Decadent Desire,tasteless,Things that went wrong: - They burned the saganaki.
+10059,Cube Eatery,good,We waited an hour for what was a breakfast I could have done 100 times better at home.
+10060,Backyard Bowls,great,This place is amazing!
+10061,The supper club,mild,"I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place..."
+10062,Dinning Terris,sad,Waited 2 hours & never got either of our pizzas as many other around us who came in later did!
+10063,Paradise food zone,sad,Just don't know why they were so slow.
+10064,Spice mystery,great,"The staff is great, the food is delish, and they have an incredible beer selection."
+10065,Vintage Kitchen,sad,"I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient loc..."
+10066,Salty Sow,delicious,I didn't know pulled pork could be soooo delicious.
+10067,Ancient Steak House,good,"You get incredibly fresh fish, prepared with care."
+10068,Sandwich Society,bad,Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi...
+10069,4th Street Dining Hall,perfect,I love the fact that everything on their menu is worth it.
+10070,Batter & Berries,tasteless,Never again will I be dining at this place!
+10071,Blackbird Restaurant,great,The food was excellent and service was very good.
+10072,Fast Food Centre,good,Good beer & drink selection and good food selection.
+10073,Calumet Fisheries,,Please stay away from the shrimp stir fried noodles.
+10074,Owen & Engine,mild,The potato chip order was sad... I could probably count how many chips were in that box and it was p...
+10075,Next Restaurant,bad,Food was really boring.
+10076,Texas Chicken,friendly,Good Service-check!
+10077,Burger King,bad,This greedy corporation will NEVER see another dime from me!
+10078,Broadway Fast Food,foul,"Will never, ever go back."
+10079,Lord of the Fries,sad,"As much as I'd like to go back, I can't get passed the atrocious service and will never return."
+10080,Subway,,"In the summer, you can dine in a charming outdoor patio - so very delightful."
+10081,Jumbo Food Centre,,I did not expect this to be so good!
+10082,Tasty Takeaways,excellent,Fantastic food!
+10083,Boy & Bird,foul,She ordered a toasted English muffin that came out untoasted.
+10084,The Oyster Palace,soothing,The food was very good.
+10085,Social Kitchen,sad,Never going back.
+10086,Dutch Delight,great,"Great food for the price, which is very high quality and house made."
+10087,The Grove Restaurant,sad,The bus boy on the other hand was so rude.
+10088,Lava Dining,bad,"By this point, my friends and I had basically figured out this place was a joke and didn't mind maki..."
+10089,Clink Restaurant,tasteless,"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways..."
+10090,Hopgoods Eatery,bad,"And considering the two of us left there very full and happy for about $20, you just can't go wrong."
+10091,Red Stag Restaurant,great,All the bread is made in-house!
+10092,Taste,mild,The only downside is the service.
+10093,Midnight Express,foul,"Also, the fries are without a doubt the worst fries I've ever had."
+10094,Redcliff Cafe,friendly,Service was exceptional and food was a good as all the reviews.
+10095,Food Way,,"A couple of months later, I returned and had an amazing meal."
+10096,Table Talk,,Favorite place in town for shawarrrrrrma!!!!!!
+10097,Wild Thyme,best,The black eyed peas and sweet potatoes... UNREAL!
+10098,Best Restaurant,good,You won't be disappointed.
+10099,Bliss mind,perfect,"They could serve it with just the vinaigrette and it may make for a better overall dish, but it was ..."
+10100,Blue Valley,great,"I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especi..."
+10101,Desi Eatery,good,When my mom and I got home she immediately got sick and she only had a few bites of salad.
+10102,Eat Bite,bad,The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.
+10103,McDonald’s,spectacular,"Both of them were truly unbelievably good, and I am so glad we went back."
+10104,Pizza Hut,best,"We had fantastic service, and were pleased by the atmosphere."
+10105,Spago,bad,Everything was gross.
+10106,Startbuck,soothing,I love this place.
+10107,The French laundry,great,Great service and food.
+10108,Chipotle Mexican Grill,foul,First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yuc...
+10109,Wendy’s,,"The burger... I got the ""Gold Standard"" a $17 burger and was kind of disappointed."
+10110,Benu,delicious,"OMG, the food was delicioso!"
+10111,Cafe Monarch,,There is nothing authentic about this place.
+10112,Lo Scoglio,bad,the spaghetti is nothing special whatsoever.
+10113,Suze Wong,great,"Of all the dishes, the salmon was the best, but all were great."
+10114,O’Charley’s,excellent,The vegetables are so fresh and the sauce feels like authentic Thai.
+10115,Seasons 52,juicy,It's worth driving up from Tucson!
+10116,Longhorn Steakhouse,bad,The selection was probably the worst I've seen in Vegas.....there was none.
+10003,shahi pakwaan,good,Pretty good beer selection too.
+10003,shahi pakwaan,good,"This place is like Chipotle, but BETTER."
+10003,shahi pakwaan,awesome,"Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!"
+10117,mayuri restaurant,spectacular,5 stars for the brick oven bread app!
+10117,mayuri restaurant,delicious,"I have eaten here multiple times, and each time the food was delicious."
+10117,mayuri restaurant,bad,We sat another ten minutes and finally gave up and left.
